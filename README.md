@@ -8,7 +8,11 @@ if the level is equal  to the required amount then water level indicated fulll a
       ============HOW TO SETUP THE CONNECTION=========
    
   HC-SR04  ====  NODEMCU
+
    Gnd            Gnd
+
    Vcc            3v
+
    Trig           D4
+
    Echo           D3
