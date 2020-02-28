@@ -9,10 +9,10 @@ if the level is equal  to the required amount then water level indicated fulll a
    
   HC-SR04  ====  NODEMCU
 
-   Gnd              Gnd
+   Gnd__________      Gnd
 
-   Vcc               3v
+   Vcc____________    3v
 
-   Trig              D4
+   Trig___________    D4
 
-   Echo              D3
+   Echo____________   D3
