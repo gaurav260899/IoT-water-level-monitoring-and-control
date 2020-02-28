@@ -11,8 +11,8 @@ if the level is equal  to the required amount then water level indicated fulll a
 
    Gnd              Gnd
 
-   Vcc              3v
+   Vcc               3v
 
-   Trig             D4
+   Trig              D4
 
-   Echo             D3
+   Echo              D3
