@@ -1,8 +1,7 @@
 # IoT-water-monitoring-and-control
 we used ultrasonic sensor to detect the level of water in the tank
-if the level of water is far from the botton of the tank then sianl water level very low and the motor is switched on
+if the level of water is low then the sensor sends signal to the motor and water is pumped automaically to the tank if the water  level is full the sensor sends signal to the motor and its switched off automaticall
 
-if the level is equal  to the required amount then water level indicated fulll and the motor is switched off
 
 
       ============HOW TO SETUP THE CONNECTION=========
